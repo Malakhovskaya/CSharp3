@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\bin\Debug\net6.0\1Chapter_IT.exe
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\bin\Debug\net6.0\1Chapter_IT.deps.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\bin\Debug\net6.0\1Chapter_IT.runtimeconfig.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\bin\Debug\net6.0\1Chapter_IT.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\bin\Debug\net6.0\1Chapter_IT.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\1Chapter_IT.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\1Chapter_IT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\1Chapter_IT.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\1Chapter_IT.AssemblyInfo.cs
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\1Chapter_IT.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\1Chapter_IT.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\refint\1Chapter_IT.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\1Chapter_IT.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\1Chapter_IT.genruntimeconfig.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_Work\1Chapter_IT\obj\Debug\net6.0\ref\1Chapter_IT.dll
